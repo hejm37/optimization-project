@@ -1,4 +1,4 @@
-# optimization-project
+# optimization-homework
 Simple project for optimization Convex optimization and operations research 2018 Fall SYSU
 
 ## Problem A: Lasso
